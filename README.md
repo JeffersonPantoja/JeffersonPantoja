@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-**Engenheiro de Software Backend**
+**Engenheiro de Software**
 
 > 🚧 Perfil em construção. Novos projetos e informações serão adicionados em breve.
 
