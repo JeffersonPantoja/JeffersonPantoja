@@ -1,9 +1,3 @@
-<h1>
-  Jefferson Pantoja
-</h1>
-
-**Engenheiro de Software**
-
 > 🚧 Perfil em construção. Novos projetos e informações serão adicionados em breve.
 
 ## Tecnologias
